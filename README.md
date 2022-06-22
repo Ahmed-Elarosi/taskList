@@ -1,1 +1,7 @@
-# task List
+# Task List
+
+## Frontend: VueJs
+### BulmaCSS
+
+## Backend: NodeJs
+### ExpressJS
